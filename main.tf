@@ -21,12 +21,3 @@ provider "aws" {
   region = ap-southeast-1
 }
 
-terraform {}
-
-provider "aws" {}
-
-provider "aws" {}
-
-provider "aws" {}
-
-provider "aws" {}
